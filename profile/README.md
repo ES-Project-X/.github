@@ -1,4 +1,4 @@
-# Project X
+# BiX
 
 ## Team Members
 
